@@ -6,7 +6,7 @@ global god
 god = 365
 
 global step
-step = 0.01
+step = 0.05
 
 class Calculation():
 
